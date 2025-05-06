@@ -1,0 +1,12 @@
+*.vcxproj linguist-language=XML
+*.sln linguist-language=XML
+*.obj linguist-generated=true
+*.lib linguist-generated=true
+*.dll linguist-generated=true
+*.pdb linguist-generated=true
+*.log linguist-generated=true
+*.idb linguist-generated=true
+*.tlog linguist-generated=true
+*.cache linguist-generated=true
+*.ilk linguist-generated=true
+.vs/ linguist-generated=true
